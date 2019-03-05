@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">calculadora_2.0</string>
+    <string name="error">No se puede realizar la operacion</string>
+    <string name="numero_1">Numero 1</string>
+    <string name="numero_2">Numero 2</string>
+    <string name="resultado">Resultado</string>
+    <string name="_n10_0">0.0</string>
+    <string name="_n20_0">0.0</string>
+    <string name="_res0_0">0.0</string>
+    <string name="_suma">Suma</string>
+    <string name="_resta">Resta</string>
+    <string name="_multi">Multiplicación</string>
+    <string name="_division">División</string>
+    <string name="_residuo">Residuo</string>
+</resources>
